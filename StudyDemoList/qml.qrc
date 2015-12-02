@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>demolist/connections/ConnectionDemo.qml</file>
+        <file>demolist/selfsignal/SelfSignal.qml</file>
+        <file>demolist/movetext/MoveText.qml</file>
+        <file>demolist/timerdemo/TimerDemo.qml</file>
+        <file>demolist/colorpicker/ColorLoader.qml</file>
+        <file>demolist/dynamicadd/DynamicAdd.qml</file>
+    </qresource>
+</RCC>
