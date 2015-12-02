@@ -7,5 +7,15 @@
         <file>demolist/timerdemo/TimerDemo.qml</file>
         <file>demolist/colorpicker/ColorLoader.qml</file>
         <file>demolist/dynamicadd/DynamicAdd.qml</file>
+        <file>demolist/colorpicker/content/ColorPicker.qml</file>
+        <file>demolist/colorpicker/RowPickerDemo.qml</file>
+        <file>demolist/colorpicker/ColumnPickerDemo.qml</file>
+        <file>demolist/colorpicker/GridPickerDemo.qml</file>
+        <file>demolist/colorpicker/FlowPickerDemo.qml</file>
+        <file>demolist/colorpicker/GridLayoutPickerDemo.qml</file>
+        <file>demolist/choicedemo/RadioButtonDemo.qml</file>
+        <file>demolist/choicedemo/CheckBoxDemo.qml</file>
+        <file>demolist/choicedemo/GroupBoxDemo.qml</file>
+        <file>demolist/choicedemo/ComboBox.qml</file>
     </qresource>
 </RCC>
