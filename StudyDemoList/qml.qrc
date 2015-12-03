@@ -17,5 +17,6 @@
         <file>demolist/choicedemo/CheckBoxDemo.qml</file>
         <file>demolist/choicedemo/GroupBoxDemo.qml</file>
         <file>demolist/choicedemo/ComboBox.qml</file>
+        <file>demolist/widgetdemo/ProgressBarDemo.qml</file>
     </qresource>
 </RCC>
