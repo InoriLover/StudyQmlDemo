@@ -21,5 +21,8 @@
         <file>demolist/widgetdemo/TabViewDemo.qml</file>
         <file>demolist/widgetdemo/SliderDemo.qml</file>
         <file>demolist/widgetdemo/FlickableDemo.qml</file>
+        <file>demolist/canvas/demo01.qml</file>
+        <file>demolist/canvas/demo02.qml</file>
+        <file>demolist/canvas/demo03.qml</file>
     </qresource>
 </RCC>
