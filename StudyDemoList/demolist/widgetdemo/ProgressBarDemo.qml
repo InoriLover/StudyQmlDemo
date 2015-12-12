@@ -102,7 +102,7 @@ Rectangle {
                             anchors.left: parent.left;
                             anchors.top: parent.top;
                             anchors.bottom: parent.bottom;
-                            anchors.margins: 4;
+                            anchors.margins: 6;
                             z: 1;
                             width: currentProgress*(parent.width-8);
                             sourceComponent: progressBarStyle.progress;
@@ -112,7 +112,7 @@ Rectangle {
                             text: currentProgress*100+"%";
                             z: 2;
                             anchors.centerIn: parent;
-                            font.pixelSize: 24;
+                            font.pixelSize: 20;
                         }
                     }
                 }

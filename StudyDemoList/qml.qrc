@@ -18,5 +18,8 @@
         <file>demolist/choicedemo/GroupBoxDemo.qml</file>
         <file>demolist/choicedemo/ComboBox.qml</file>
         <file>demolist/widgetdemo/ProgressBarDemo.qml</file>
+        <file>demolist/widgetdemo/TabViewDemo.qml</file>
+        <file>demolist/widgetdemo/SliderDemo.qml</file>
+        <file>demolist/widgetdemo/FlickableDemo.qml</file>
     </qresource>
 </RCC>
